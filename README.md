@@ -11,7 +11,7 @@
 
 2. 设置好环境变量后点击你的仓库上方的 `Actions` 选项，第一次打开需要点击 `I understand...` 按钮，确认在 Fork 的仓库上启用 GitHub Actions 。
 
-3.点击【Run workflow】按钮，执行你的第一次贴吧签到吧。
+3.点击【Run workflow】按钮，执行你的第一次贴吧签到吧
 
 ![_20230105094304](https://user-images.githubusercontent.com/7272911/210682614-fe0045b1-8256-449f-b3cf-e4c828520e8d.png)
 
