@@ -31,7 +31,3 @@ jobs:
           TO: ${{ secrets.TO }}
           AUTH: ${{ secrets.AUTH }}
         run: python main.py
-
-      # --- 新增的自动保活步骤 ---
-      - name: Keepalive Workflow
-        uses: gautamkrishnar/keepalive-workflow@v1
